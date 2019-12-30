@@ -1,2 +1,3 @@
 # demo_git
-Trial
+
+Démonstration de Git
