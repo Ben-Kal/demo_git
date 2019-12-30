@@ -1,1 +1,2 @@
-Ceci est un fichier texte
+Ceci est un fichier texte.
+Ajout de la deuxième ligne depuis Github.
